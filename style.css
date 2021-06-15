@@ -1,0 +1,51 @@
+body {
+  background-color: #1E90FF; 
+  background-repeat: no-repeat;
+  color: black;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align:center;
+}
+
+img {
+  margin: 500;
+  height: 280px;
+  width: 190px;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  display: flex;
+}
+ 
+
+main {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  position: relative; 
+}
+
+.nome-personagem {
+  color: black;
+  align-items: center;
+  display: flow-root;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px; 
+  height: 100px;
+  margin: 15px 0 0;
+  border: none;
+}
+
+.button {
+  color: #D3D3D3;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+  
+  
+  
